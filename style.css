@@ -1,0 +1,61 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(Background.jpg) no-repeat;
+  background-size: cover;
+
+}
+.box{
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+  
+}
+.box{
+  width: 650px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+  border-radius: 60%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 45px;
+  letter-spacing: 1px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 100;
+}
+
+a.button1 {
+	position: sticky; 
+  display: inline-block;
+  background: #4b0082;
+  color: #fff;
+  padding: 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+
+}
+
+
